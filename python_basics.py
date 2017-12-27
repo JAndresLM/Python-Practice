@@ -69,15 +69,4 @@ elif False:  # [] () {} 0 None  those ones can be used as false
 else:  # and   or
     print('What is it?')
 
-# 10) Loops
-#  _______while _____________________
-flag = True
-while flag:
-    if flag:
-        flag = False
-    else:
-        continue
-else:
-    print('the loops has finished')
-
 #  _______For _____________________
