@@ -69,4 +69,3 @@ elif False:  # [] () {} 0 None  those ones can be used as false
 else:  # and   or
     print('What is it?')
 
-#  _______For _____________________
